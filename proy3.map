@@ -1,0 +1,114 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Dec 27 23:48:49 2015
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x00044e
+     .config_2007_PROY3.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x00022a      
+                            0x002007    0x002007      
+            553 out of 8455 program addresses used, program memory utilization is 6%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+             Interrupcion   0x000052    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     MAIN   0x00006c    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   Seguir   0x000068    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                catorce_E   0x0001d1    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     cero   0x0000b5    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    cinco   0x00011e    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    click   0x0000a8    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   cuatro   0x000109    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     ddos   0x000220    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                 delay1ms   0x000216    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                delay1seg   0x0001fb    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+               delay250ms   0x00020b    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+             delay250ms_0   0x00020f    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+             delay_1seg_0   0x000201    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   dibuja   0x000098    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   diez_A   0x000182    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     dig1   0x000055    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     dig2   0x00005f    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   doce_C   0x0001a7    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                      dos   0x0000e4    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    dtres   0x00021e    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     duno   0x000222    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                  entrada   0x00008f    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     loop   0x000091    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   matrix   0x000093    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    nueve   0x00016d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     ocho   0x00015d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   once_B   0x000197    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                 quince_F   0x0001e6    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     seis   0x000133    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    siete   0x000148    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    sigue   0x000218    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+             simple_delay   0x00021c    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    tabla   0x000047    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   tabla2   0x000005    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+         termino_inferior   0x0000a5    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+         termino_superior   0x00009c    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                  trece_D   0x0001bc    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     tres   0x0000f9    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                      uno   0x0000c5    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   tabla2   0x000005    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    tabla   0x000047    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+             Interrupcion   0x000052    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     dig1   0x000055    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     dig2   0x00005f    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   Seguir   0x000068    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     MAIN   0x00006c    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                  entrada   0x00008f    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     loop   0x000091    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   matrix   0x000093    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   dibuja   0x000098    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+         termino_superior   0x00009c    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+         termino_inferior   0x0000a5    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    click   0x0000a8    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     cero   0x0000b5    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                      uno   0x0000c5    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                      dos   0x0000e4    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     tres   0x0000f9    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   cuatro   0x000109    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    cinco   0x00011e    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     seis   0x000133    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    siete   0x000148    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     ocho   0x00015d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    nueve   0x00016d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   diez_A   0x000182    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   once_B   0x000197    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                   doce_C   0x0001a7    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                  trece_D   0x0001bc    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                catorce_E   0x0001d1    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                 quince_F   0x0001e6    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                delay1seg   0x0001fb    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+             delay_1seg_0   0x000201    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+               delay250ms   0x00020b    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+             delay250ms_0   0x00020f    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                 delay1ms   0x000216    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    sigue   0x000218    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+             simple_delay   0x00021c    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                    dtres   0x00021e    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     ddos   0x000220    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+                     duno   0x000222    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy3.asm
+
+

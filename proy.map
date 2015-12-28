@@ -1,0 +1,61 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Sun Dec 27 23:48:43 2015
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x000002
+                   .org_3       code   0x000005    program   0x0000fc
+      .config_2007_PROY.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000082      
+                            0x002007    0x002007      
+            129 out of 8455 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   Seguir   0x000082    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+    binario_a_s_segmentos   0x00002f    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                     cont   0x000081    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                      dec   0x000070    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                     dig1   0x00005d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                     dig2   0x000067    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+            encripta_x_16   0x000040    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+             encripta_x_2   0x000052    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+             encripta_x_4   0x00004a    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                  externo   0x000074    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                    inter   0x000058    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                     loop   0x00002d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                     main   0x000005    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                     main   0x000005    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                     loop   0x00002d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+    binario_a_s_segmentos   0x00002f    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+            encripta_x_16   0x000040    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+             encripta_x_4   0x00004a    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+             encripta_x_2   0x000052    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                    inter   0x000058    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                     dig1   0x00005d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                     dig2   0x000067    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                      dec   0x000070    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                  externo   0x000074    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                     cont   0x000081    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+                   Seguir   0x000082    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy.asm
+
+

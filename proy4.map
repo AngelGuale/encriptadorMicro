@@ -1,0 +1,104 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Mon Dec 28 03:45:16 2015
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000002
+                   .org_2       code   0x000004    program   0x00023c
+     .config_2007_PROY4.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000000      
+                            0x000004    0x000121      
+                            0x002007    0x002007      
+            288 out of 8455 program addresses used, program memory utilization is 3%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                       DO   0x0000ab    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       FA   0x0000b7    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                    INTER   0x000022    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                    INTRB   0x00002e    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                  INTTMR0   0x000036    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       LA   0x0000bf    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                     LOOP   0x000073    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                     MAIN   0x000041    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       MI   0x0000b3    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                   MUSIC1   0x0000e3    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                   MUSIC2   0x0000f6    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                   MUSIC3   0x00010c    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                RBCINTERR   0x000029    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       RE   0x0000af    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       SI   0x0000c3    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                 SIN_NOTA   0x00009f    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                      SOL   0x0000bb    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                 delay1ms   0x00007e    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                delay1seg   0x000084    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+               delay250ms   0x000094    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+             delay250ms_0   0x000098    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+             delay_1seg_0   0x00008a    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       do   0x0000c7    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+            encripta_x_16   0x000005    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+             encripta_x_2   0x00001b    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+             encripta_x_4   0x000012    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       fa   0x0000d3    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                  fin_int   0x00002d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                   hacer0   0x00003d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       la   0x0000db    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       mi   0x0000cf    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       re   0x0000cb    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       si   0x0000df    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                    sigue   0x000080    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                      sol   0x0000d7    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+            encripta_x_16   0x000005    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+             encripta_x_4   0x000012    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+             encripta_x_2   0x00001b    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                    INTER   0x000022    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                RBCINTERR   0x000029    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                  fin_int   0x00002d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                    INTRB   0x00002e    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                  INTTMR0   0x000036    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                   hacer0   0x00003d    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                     MAIN   0x000041    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                     LOOP   0x000073    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                 delay1ms   0x00007e    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                    sigue   0x000080    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                delay1seg   0x000084    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+             delay_1seg_0   0x00008a    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+               delay250ms   0x000094    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+             delay250ms_0   0x000098    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                 SIN_NOTA   0x00009f    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       DO   0x0000ab    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       RE   0x0000af    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       MI   0x0000b3    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       FA   0x0000b7    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                      SOL   0x0000bb    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       LA   0x0000bf    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       SI   0x0000c3    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       do   0x0000c7    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       re   0x0000cb    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       mi   0x0000cf    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       fa   0x0000d3    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                      sol   0x0000d7    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       la   0x0000db    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                       si   0x0000df    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                   MUSIC1   0x0000e3    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                   MUSIC2   0x0000f6    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+                   MUSIC3   0x00010c    program     static C:\Users\Usuario\Documents\9no semestre\lab microcon\practicas\proy\proy4.asm
+
+
